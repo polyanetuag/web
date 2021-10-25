@@ -23,9 +23,12 @@
 - Sass
 
 ## ⏱ Como executar
+Para o funcionamento do projeto, é necessário que esteja rodando o frontend e o servidor com o banco de dados. 
+
+Para isso, basta clonar:
 
 ```bash
-# Clonar o repositório
+# Clonar o repositório frontend
 $ git clone https://github.com/polyanetuag/web.git
 
 # Entrar na pasta  
@@ -38,6 +41,21 @@ $ yarn
 $ yarn dev
 
 # O servidor será inicializado em <http://localhost:3000>
+```
+```bash
+# Clonar o repositório backend
+$ git clone https://github.com/polyanetuag/EventDoWhile.git
+
+# Entrar na pasta  
+$ cd EventDoWhile
+
+# Instalar as dependências
+$ yarn 
+
+# Iniciar a aplicação
+$ yarn dev
+
+# O servidor será inicializado em <http://localhost:4000>
 ```
 
 ## 📝 Licença
