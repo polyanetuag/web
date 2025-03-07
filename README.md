@@ -21,7 +21,7 @@ Funciona com uma rede social, em que pessoas, logadas com o Github, conseguem en
 ## 🚀 Tecnologias utilizadas:
 
 - [ReactJS](https://pt-br.legacy.reactjs.org/)
-- Typescript
+- [Typescript](https://www.typescriptlang.org/)
 - NodeJs
 - Sass
 
