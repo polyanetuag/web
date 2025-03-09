@@ -22,7 +22,7 @@ Funciona com uma rede social, em que pessoas, logadas com o Github, conseguem en
 
 - [ReactJS](https://pt-br.legacy.reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
-- NodeJs
+- [NodeJs](https://nodejs.org/pt)
 - Sass
 
 ## ⏱ Como executar
