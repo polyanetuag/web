@@ -23,7 +23,7 @@ Funciona com uma rede social, em que pessoas, logadas com o Github, conseguem en
 - [ReactJS](https://pt-br.legacy.reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [NodeJs](https://nodejs.org/pt)
-- Sass
+- [Sass](https://sass-lang.com/)
 
 ## ⏱ Como executar
 Para o funcionamento do projeto, é necessário que esteja rodando o frontend e o servidor com o banco de dados. 
