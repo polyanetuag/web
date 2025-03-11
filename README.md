@@ -1,6 +1,6 @@
 <div align="center">
   <h2>NLW HEAT - Evento DoWhile</h2>
-  <img width= '800' src="" />
+<!--   <img width= '800' src="" /> -->
 </div>
 
 <h3 align="center">  
