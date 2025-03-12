@@ -16,7 +16,7 @@
 
 O projeto foi desenvolvido para o evento **DoWhile2021** da Rocketseat.
 
-Funciona com uma rede social, em que pessoas, logadas com o Github, conseguem enviar mensagens sobre a expectativa do evento
+Funciona com uma rede social, em que pessoas, que estão logadas com o Github, conseguem enviar mensagens sobre a expectativa do evento
 
 ## 🚀 Tecnologias utilizadas:
 
